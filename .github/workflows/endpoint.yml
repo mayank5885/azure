@@ -14,7 +14,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Get changed JSON files and contents
+      - name: Get changed JSON files and contents to send to API endpoint
         id: prepare_json_files
         run: |
           echo "Collecting changed JSON files..."
