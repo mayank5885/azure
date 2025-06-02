@@ -15,3 +15,9 @@ jobs:
     steps:
       - name: HEllo wstep
         run: echo "hello world"
+  
+  hello1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: hello1 world
+        run: echo "hello11 world"
