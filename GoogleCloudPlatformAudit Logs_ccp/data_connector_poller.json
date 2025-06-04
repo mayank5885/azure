@@ -2,7 +2,7 @@
 	"type": "Microsoft.SecurityInsights/dataConnectors",
 	"apiVersion": "2022-10-01-preview",
 	"name": "{{workspace}}/Microsoft.SecurityInsights/GCPAuditLogs",
-	"kind": "GCP",
+	"kind": "GP",
 	"properties": {
 		"connectorDefinitionName": "GCPAuditLogsDefinition",
 		"dataType": "GCPAuditLogs",
