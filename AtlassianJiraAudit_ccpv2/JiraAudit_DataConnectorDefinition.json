@@ -1,7 +1,7 @@
 {
     "name": "JiraAuditCCPDefinition",
     "apiVersion": "2022-09-01-preview",
-    "type": "Microsoft.SecurityInsights/dataConnectorDefinitions",
+    "type": "Microsoft.SecurityInsights/Wrong",
     "location": "{{location}}",
     "kind": "Customizable",
     "availability": {
