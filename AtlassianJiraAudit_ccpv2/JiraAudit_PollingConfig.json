@@ -1,7 +1,7 @@
 {
     "name": "AtlassianJiraCCPPolling",
     "apiVersion": "2022-12-01-preview",
-    "type": "Microsoft.SecurityInsights/dataConnectors",
+    "type": "Wrong",
     "location": "{{location}}",
     "kind": "RestApiPoller",
     "properties": {
