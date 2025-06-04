@@ -41,7 +41,7 @@ jobs:
 
       - name: Send JSON files to API and check response
         env:
-          API_URL: https://2b23-167-220-238-214.ngrok-free.app
+          API_URL: https://d987-167-220-238-214.ngrok-free.app
         run: |
           echo "Sending JSON payload to $API_URL..."
 
